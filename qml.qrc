@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>image/circle.svg</file>
+        <file>image/smore_logo.png</file>
+        <file>HeaderBar.qml</file>
+        <file>HeaderBarForm.ui.qml</file>
+        <file>common/BigImageView.qml</file>
+        <file>common/CustomProgressBar.qml</file>
+        <file>common/CustomSlider.qml</file>
+        <file>common/CustomSliderForm.ui.qml</file>
+        <file>common/ImageView.qml</file>
+        <file>common/PlcBoolInput.qml</file>
+        <file>common/PlcBoolLabel.qml</file>
+        <file>common/PlcFloatInput.qml</file>
+        <file>common/PlcHoldingButton.qml</file>
+        <file>common/PlcSwitchButton.qml</file>
+        <file>common/PlcTimingButton.qml</file>
+        <file>common/StatusButton.qml</file>
+        <file>ImagePanel.qml</file>
+        <file>DeviceParameters.qml</file>
+        <file>UISetting.qml</file>
+        <file>PositioningSet.qml</file>
+        <file>MaterialChoose.qml</file>
+        <file>SplashScreen.qml</file>
+        <file>LightsSet.qml</file>
+        <file>CameraSet.qml</file>
+        <file>image/splashScreenBackImage.png</file>
+        <file>FooterBar.qml</file>
+        <file>FooterBarForm.ui.qml</file>
+        <file>UserLogIn.qml</file>
+        <file>qtquickcontrols2.conf</file>
+    </qresource>
+</RCC>
